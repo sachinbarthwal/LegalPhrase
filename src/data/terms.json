@@ -1,0 +1,62 @@
+[
+  {
+    "term": "Indemnification",
+    "explanation": "When one party agrees to compensate another for losses or damages.",
+    "example": "The Client shall indemnify and hold harmless the Consultant from any claims arising from this agreement.",
+    "category": "Contract"
+  },
+  {
+    "term": "Force Majeure",
+    "explanation": "Events outside a party's control that prevent them from fulfilling their obligations.",
+    "example": "Neither party shall be liable for failure to perform due to a Force Majeure event.",
+    "category": "Contract"
+  },
+  {
+    "term": "Confidentiality",
+    "explanation": "A clause requiring involved parties to keep certain information private.",
+    "example": "The Employee agrees to maintain strict confidentiality of trade secrets.",
+    "category": "NDA"
+  },
+  {
+    "term": "Arbitration",
+    "explanation": "A process where a neutral third party resolves a dispute outside of court.",
+    "example": "All disputes shall be resolved by binding arbitration in accordance with the rules of the AAA.",
+    "category": "Dispute Resolution"
+  },
+  {
+    "term": "Jurisdiction",
+    "explanation": "Defines the legal authority under which the agreement falls.",
+    "example": "This Agreement shall be governed by the laws of the Province of Ontario.",
+    "category": "General"
+  },
+  {
+    "term": "Severability",
+    "explanation": "If one part of the contract is invalid, the rest remains in effect.",
+    "example": "If any provision of this agreement is held to be unenforceable, the remaining provisions will remain valid.",
+    "category": "Contract"
+  },
+  {
+    "term": "Non-compete",
+    "explanation": "Prevents one party from working with competitors for a certain time or region.",
+    "example": "The Employee shall not work for any competing company within 1 year after termination.",
+    "category": "Employment"
+  },
+  {
+    "term": "Term and Termination",
+    "explanation": "Specifies how long an agreement lasts and how it can be ended.",
+    "example": "This Agreement is effective for 12 months unless terminated earlier by either party.",
+    "category": "General"
+  },
+  {
+    "term": "Entire Agreement",
+    "explanation": "States that the written agreement is the complete and final understanding.",
+    "example": "This document constitutes the entire agreement between the parties and supersedes all prior understandings.",
+    "category": "General"
+  },
+  {
+    "term": "Governing Law",
+    "explanation": "Specifies which jurisdiction's laws will be used to interpret the contract.",
+    "example": "This Agreement shall be governed in accordance with the laws of the State of California.",
+    "category": "Contract"
+  }
+] 
